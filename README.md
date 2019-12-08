@@ -1,2 +1,3 @@
-# Coding.course
-Todo thing
+- About
+
+This is a final assignment for coding course.
